@@ -1,5 +1,7 @@
 # YouTube-Player-iOS-Helper
 
+[![Language](https://img.shields.io/github/languages/top/masikh/youtube-ios-player-helper)](https://github.com/masikh/youtube-ios-player-helper) [![Last commit](https://img.shields.io/github/last-commit/masikh/youtube-ios-player-helper)](https://github.com/masikh/youtube-ios-player-helper/commits) [![Repo size](https://img.shields.io/github/repo-size/masikh/youtube-ios-player-helper)](https://github.com/masikh/youtube-ios-player-helper) [![Stars](https://img.shields.io/github/stars/masikh/youtube-ios-player-helper?style=flat)](https://github.com/masikh/youtube-ios-player-helper/stargazers)
+
 [![Version](https://cocoapod-badges.herokuapp.com/v/youtube-ios-player-helper/badge.png)](https://cocoapods.org/pods/youtube-ios-player-helper)
 [![Platform](https://cocoapod-badges.herokuapp.com/p/youtube-ios-player-helper/badge.png)](https://cocoapods.org/pods/youtube-ios-player-helper)
 
